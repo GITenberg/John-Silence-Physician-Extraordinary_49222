@@ -1,4 +1,8 @@
 _repo: John-Silence-Physician-Extraordinary_49222
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49222-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackwood, Algernon
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1370
     wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49222#John-Silence-Physician-Extraordinary
 gutenberg_issued: '2015-06-16'
 gutenberg_type: Text
 identifiers:
